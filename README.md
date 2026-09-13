@@ -15,6 +15,7 @@ Go 연습장. 제품 저장소([pricewatch](https://github.com/CodingToastBread/
 |---|---|---|
 | `hello-world/` | 첫 실행 | 완료 |
 | `basics/` | Go 기본기 한 장. `go run .` 으로 12개 블록이 순서대로 찍힘 | 읽는 중 |
+| `tour/` | Go 한 바퀴: 문법 전체를 실행되는 파일 5개로 넓게 (Go by Example 순서) | 읽는 중 |
 | `fetchall/` | 몸풀기: URL 여러 개를 동시에 가져오는 CLI (goroutine·채널·context·httptest) | 진행 중 |
 
 ## 실행

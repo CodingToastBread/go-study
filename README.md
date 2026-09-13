@@ -3,6 +3,8 @@
 Go 연습장. 제품 저장소([pricewatch](https://github.com/CodingToastBread/pricewatch))와 분리해서,
 실험·예제·막혔던 것들을 여기에 쌓습니다.
 
+공부 방법 전체는 [HOW_TO_STUDY.md](HOW_TO_STUDY.md) 에 있습니다. 방법이 흔들릴 때 다시 읽습니다.
+
 ## 규칙
 
 - 폴더 하나 = 주제 하나. 각 폴더는 독립된 모듈(`go.mod`)입니다.
